@@ -1,1 +1,1 @@
-# Visit the [Fractal Documentation](https://github.com/MR-SIR2525/fractal-documentation/wiki/Fractal-Documentation-%E2%80%90-Home)
+# Visit the [Fractal Documentation](https://github.com/MR-SIR2525/fractal-documentation/wiki)
